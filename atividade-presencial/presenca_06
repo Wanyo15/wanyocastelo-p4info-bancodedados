@@ -1,0 +1,10 @@
+Uma Entidade Associativa ocorre em relacionamentos n:n.
+
+a) Demonstre uma Entidade Associativa e descreva seus atributos.
+Temos a relação entre aluno e disciplina. 
+A partir daí , criamos então uma entidade chamada ALUNO_DISCIPLINA. 
+Ela possuirá então os atributos: -ID_aluno (chave estrangeira relacionada com a chave primária de aluno) 
+                                 -ID_disciplina (chave estrangeira relacionada com a chave primária de disciplina) 
+                                 -nota (a nota de cada aluno em cada disciplina) 
+                                 -periodo (indicando o período de cada nota)
+Nesse caso , a chave primária seria formada pelos atributos IR_aluno e ID disciplina.
