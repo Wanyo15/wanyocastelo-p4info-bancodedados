@@ -1,0 +1,19 @@
+Quanto a cardinalidade que define um relacionamento, pede-se:
+
+a) Exemplifique e conceitue Cardinalidade Máxima e Cardinalidade Mínima:
+Cardinalidade Máxima - define a quantidade máxima de ocorrências da Entidade que pode participar do Relacionamento. Deve ser maior que zero.
+Exemplo: Um Estado possui Cidades e Cidades pertencem a Estado.
+Cardinalidade Mínima - define se o relacionamento entre duas entidades é obrigatório ou não.
+Exemplo: Um País pode possuir Uf's, mas UF's têm que obrigatoriamente pertencer a algum País.
+
+b) Explique um exemplo de uma cardinalidade 1:1: 
+O cliente é uma pessoa (Obrigatório). 
+A pessoa pode ser no mínimo um cliente (Opcional)
+
+c) Explique um exemplo de uma cardinalidade 1:n:
+O produto possui nenhuma ou muitas modalidades de produto.
+A modalidade do produto pertence a um produto . 
+
+d) Explique um exemplo de uma cardinalidade n:n: 
+CLIENTE celebra um ou vários Contratos.
+CONTRATO é celebrado por um ou vários clientes.
