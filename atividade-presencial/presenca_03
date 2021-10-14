@@ -1,0 +1,10 @@
+Descreva as fases de um Projeto de Banco de Dados: 
+
+1) Modelagem Conceitual 
+É um modelo de dados abstrato, que descreve a construção de um banco de dados sem ser vinculado a um SGBD específico.  
+
+2) Projeto Lógico 
+É a representação da construção dos dados do banco de dados tendo uma visão de um usuário de determinado SGBD.
+
+3) Projeto Físico 
+É criado com base no modelo lógico, onde há o detalhamento dos componentes de estrutura fisica do banco de dados , como tabelas , campos etc. A partir daí , é implementado de fato o banco de dados usando o SDBD  mais adequado.
