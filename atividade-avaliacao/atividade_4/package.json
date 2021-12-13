@@ -1,0 +1,24 @@
+{
+  "name": "wanyocastelo-p4info-bancodedados",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wanyo15/wanyocastelo-p4info-bancodedados.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wanyo15/wanyocastelo-p4info-bancodedados/issues"
+  },
+  "homepage": "https://github.com/Wanyo15/wanyocastelo-p4info-bancodedados#readme",
+  "dependencies": {
+    "knex": "^0.95.14",
+    "sqlite3": "^5.0.2"
+  }
+}
